@@ -1,0 +1,13 @@
+{
+  "repository": "Sad-Jack/dsh-jupyterlab-ru",
+  "package": "dsh-jupyterlab",
+  "version": "0.1.0-local.1.ru.3",
+  "upstream": "https://github.com/NKUHan123/dsh-jupyterlab",
+  "upstreamVersion": "0.1.0-local.1",
+  "license": "MIT",
+  "snapshotType": "localized-runtime-package",
+  "originalRepositoryMetadata": {
+    "type": "git",
+    "url": "git+https://github.com/NKUHan123/dsh-jupyterlab.git"
+  }
+}
